@@ -1,0 +1,10 @@
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\bin\Debug\BroadCast_Teste.exe.config
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\bin\Debug\BroadCast_Teste.exe
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\bin\Debug\BroadCast_Teste.pdb
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\obj\Debug\BroadCast_Teste.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\obj\Debug\BroadCast_Teste.csproj.CoreCompileInputs.cache
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\obj\Debug\BroadCast_Teste.csproj.CopyComplete
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\obj\Debug\BroadCast_Teste.exe
+C:\Users\HENRIQUE\source\repos\BroadCast_Teste\BroadCast_Teste\obj\Debug\BroadCast_Teste.pdb

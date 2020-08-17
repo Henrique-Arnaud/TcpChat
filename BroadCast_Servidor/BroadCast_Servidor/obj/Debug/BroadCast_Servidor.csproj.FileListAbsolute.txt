@@ -1,0 +1,10 @@
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\bin\Debug\BroadCast_Servidor.exe.config
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\bin\Debug\BroadCast_Servidor.exe
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\bin\Debug\BroadCast_Servidor.pdb
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\obj\Debug\BroadCast_Servidor.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\obj\Debug\BroadCast_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\obj\Debug\BroadCast_Servidor.csproj.CopyComplete
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\obj\Debug\BroadCast_Servidor.exe
+C:\Users\HENRIQUE\source\repos\BroadCast_Servidor\BroadCast_Servidor\obj\Debug\BroadCast_Servidor.pdb
